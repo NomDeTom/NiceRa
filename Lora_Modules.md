@@ -18,6 +18,7 @@
 | Heltec     | [HT-CT62](https://docs.heltec.cn/en/node/esp32/ht_ct62/index.html)                     | 17.78x 17.78x 2.8 | Yes  | ESP32C3 & SX1262 | Yes2 | 1.27mm stamp            | Int       |
 | Minew      | [SX1262-MS21SF13](https://en.minewsemi.com/lora-module/sx1262-ms21sf13)                | 16.4x 15x 3       | Yes  |                  |      |                         |           |
 | Seeed      | [Wio-SX1262](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)       | 11.6x11x 2.95     | Yes  | SX1262           | Yes  | 1.27mm stamp            | Ext[^1]   |
+| Heltec     | [Mesh Node 5262M](https://heltec.org/project/ht-n5262m/)                               | 30x 20x3.2mm      | YEs  | NRF52 & SX1262   | Yes2 | TBC                     |           |
 
 [^1]: For the WIO SX1262, RXEN is connected to RF_SW, and is required for full reception.
 
@@ -35,6 +36,7 @@
 | Seeed          | [Xiao BLE](https://wiki.seeedstudio.com/XIAO_BLE/)                                  | 21x17.5           | __   | NRF52            | No   | 2.54mm holes     | Na        |
 | Heltec         | [HT-CT62](https://docs.heltec.cn/en/node/esp32/ht_ct62/index.html)                  | 17.78x 17.78x 2.8 | Yes  | ESP32C3 & SX1262 | Yes2 | 1.27mm stamp     | Int       |
 | Seeed          | MDBT50Q-U1M                                                                         | 10.5x15.5x2.2     | __   | NRF52            | Opt  | Underside pads   | Na        |
+| Heltec         | [Mesh Node 5262M](https://heltec.org/project/ht-n5262m/)                            | 30x 20x3.2mm      | YEs  | NRF52 & SX1262   | Yes2 | TBC              |           |
 
 
 ## LR11xx
