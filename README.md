@@ -6,7 +6,7 @@ My DIY boards.
 ## Disclaimer
 These boards have not been tested under every circumstance and may have bugs. Manufacture at your own risk!
 
-## Notes
+## Notes & reference material 
 [Standard pinout for Pro-Micro board](./Pro-micro_std_pinout.md)
 
 [Lora modules & dimensions](./Lora_Modules.md)
@@ -17,6 +17,9 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 
 ### [The vaRDas unofficial firmware flasher](https://mrekin.duckdns.org/flasher/)
 vaRDas is kind enough to maintain a flasher with the latest releases of the firmware.
+
+>[!NOTE]
+>The official Meshtastic flasher now has the universal `TCXO-OPTIONAL` firmware. I'm still linking it here because this also has some custom implementations and languages.
 
 ### [Adafruit bootloader updates](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases)
 Find update-nice_nano_bootloader-0.9.x, and copy the uf2 across to your pro-micro.
@@ -62,3 +65,8 @@ https://github.com/meshtastic/firmware/blob/master/variants/xiao_ble/README.md
 * Uses NRF52 based Xiao board
 * Shows the basic pinout and procedures for making the basic node.
 * The original!
+
+### Faketec CO2
+https://github.com/paulwalko/faketec-co2
+* Extends the fake-tec design with a companion promicro to take additional readings and then send them over the mesh.
+* This is the cleanest implementation of this that I have seen.
