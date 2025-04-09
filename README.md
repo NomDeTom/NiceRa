@@ -29,6 +29,8 @@ Some useful information on the board that the Pro-Micro is "inspired by".
 
 ### [Haruki Toreda stuff](https://harukitoreda.github.io/Meshtastic-Experiments/)
 
+### [Joric's list of nrf52 compatible boards for ZMK](https://github.com/joric/nrfmicro/wiki/Alternatives)
+
 ## Other peoples boards:
 ### Fake-tec - NRF52840
 https://github.com/gargomoma/fakeTec_pcb/
