@@ -72,3 +72,8 @@ https://github.com/meshtastic/firmware/blob/master/variants/xiao_ble/README.md
 https://github.com/paulwalko/faketec-co2
 * Extends the fake-tec design with a companion promicro to take additional readings and then send them over the mesh.
 * This is the cleanest implementation of this that I have seen.
+
+### Pro Meshro
+https://github.com/hawkeyes0v0/pro-meshro
+* Using the excellent Wio SX1262 from Seeeeeeeeeeed.
+* Provides a JST PH 2.0mm connector mounting point for the battery.
