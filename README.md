@@ -32,6 +32,12 @@ Some useful information on the board that the Pro-Micro is "inspired by".
 ### [Joric's list of nrf52 compatible boards for ZMK](https://github.com/joric/nrfmicro/wiki/Alternatives)
 
 ## Other peoples boards:
+### WashTastic and Flushable - NRF52
+https://github.com/valzzu/meshtastic-pcbs
+* Impossible to summarise here - they have to be seen to be believed.
+* Iris keeps these up to date with her testing of them as they're built.
+* Variants using full modules, pro-micros and bare NRF chips.
+
 ### Fake-tec - NRF52840
 https://github.com/gargomoma/fakeTec_pcb/
 * Uses the same NRF52840 Pro-micro boards as my designs above
