@@ -32,6 +32,8 @@ Some useful information on the board that the Pro-Micro is "inspired by".
 ### [Joric's list of nrf52 compatible boards for ZMK](https://github.com/joric/nrfmicro/wiki/Alternatives)
 
 ## Other peoples boards:
+[A more complete list is available here.](https://github.com/porkcube/meshtastic-diy-nodes)
+
 ### WashTastic and Flushable - NRF52
 https://github.com/valzzu/meshtastic-pcbs
 * Impossible to summarise here - they have to be seen to be believed.
